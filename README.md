@@ -1,1 +1,1 @@
-# mlops-assignment
+# ml-ops-fine-tuning-classification
