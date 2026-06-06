@@ -63,7 +63,7 @@ pip install notebook ipykernel
 
 ### Kaggle Notebook
 
-https://www.kaggle.com/your-username/mlops-assignment-2
+https://www.kaggle.com/code/anilg25ait2009/mlops-assignment-2-fine-tuning-classification
 
 ---
 
@@ -117,7 +117,7 @@ The final evaluation metrics obtained from the notebook output are shown below.
 | GitHub Repository | https://github.com/aniliter-cloud/mlops-assignment/ |
 | Hugging Face Model | https://huggingface.co/Maxii2tj/distilbert-goodreads-genres |
 | W&B Dashboard | https://wandb.ai/maxi-i2tj-na/mlops-assignment2 |
-| Kaggle Notebook | https://www.kaggle.com/your-username/mlops-assignment-2 |
+| Kaggle Notebook | https://www.kaggle.com/code/anilg25ait2009/mlops-assignment-2-fine-tuning-classification |
 
 ---
 
